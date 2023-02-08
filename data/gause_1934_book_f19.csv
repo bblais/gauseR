@@ -1,0 +1,18 @@
+Paper,Figure,Species,Time,Individuals,Treatment
+Gause_book_1934,19,Paramecium caudatum,1.013667426,29.82254264,Mixture
+Gause_book_1934,19,Paramecium caudatum,2.019741838,140.0731121,Mixture
+Gause_book_1934,19,Paramecium caudatum,4.022399393,485.644506,Mixture
+Gause_book_1934,19,Paramecium caudatum,7.016894457,435.6010615,Mixture
+Gause_book_1934,19,Paramecium caudatum,0.055049355,28.24131696,Monoculture
+Gause_book_1934,19,Paramecium caudatum,1.013667426,29.82254264,Monoculture
+Gause_book_1934,19,Paramecium caudatum,2.019741838,192.3067891,Monoculture
+Gause_book_1934,19,Paramecium caudatum,3.016324981,264.0537304,Monoculture
+Gause_book_1934,19,Paramecium caudatum,4.012908125,487.0034208,Monoculture
+Gause_book_1934,19,Paramecium caudatum,5.009491268,418.5441765,Monoculture
+Gause_book_1934,19,Paramecium caudatum,7.026385725,522.2146553,Monoculture
+Gause_book_1934,19,Stylonychia  mytilis,1.994999056,18.14965088,Mixture
+Gause_book_1934,19,Stylonychia  mytilis,4.004953765,42.4816003,Mixture
+Gause_book_1934,19,Stylonychia  mytilis,7.006086054,19.18286469,Mixture
+Gause_book_1934,19,Stylonychia  mytilis,1.986506888,42.89016796,Monoculture
+Gause_book_1934,19,Stylonychia  mytilis,3.973674278,93.60917154,Monoculture
+Gause_book_1934,19,Stylonychia  mytilis,7.000849217,74.43951689,Monoculture

@@ -1,0 +1,13 @@
+Paper,Figure,Time,Species,Individuals,Treatment
+gause_1934_book,31,0,Paramecium caudatum ,4.9,Oat
+gause_1934_book,31,1,Paramecium caudatum ,3.1,Oat
+gause_1934_book,31,2,Paramecium caudatum ,10.5,Oat
+gause_1934_book,31,3,Paramecium caudatum ,17.7,Oat
+gause_1934_book,31,4,Paramecium caudatum ,22.7,Oat
+gause_1934_book,31,5,Paramecium caudatum ,45.6,Oat
+gause_1934_book,31,0,Didinium nasutum ,3.3,Oat
+gause_1934_book,31,1,Didinium nasutum ,5.2,Oat
+gause_1934_book,31,2,Didinium nasutum ,7.4,Oat
+gause_1934_book,31,3,Didinium nasutum ,5.6,Oat
+gause_1934_book,31,4,Didinium nasutum ,3.1,Oat
+gause_1934_book,31,5,Didinium nasutum ,0.9,Oat

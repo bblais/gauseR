@@ -1,0 +1,27 @@
+Paper,Figure,Time,Species,Individuals,Treatment
+Gause_1936_AnE,3.3b,0,Aleuroglyphus agilis,1.1,Immigration
+Gause_1936_AnE,3.3b,5,Aleuroglyphus agilis,1.5,
+Gause_1936_AnE,3.3b,8,Aleuroglyphus agilis,,Immigration
+Gause_1936_AnE,3.3b,11,Aleuroglyphus agilis,4.6,
+Gause_1936_AnE,3.3b,16,Aleuroglyphus agilis,6.1,Immigration
+Gause_1936_AnE,3.3b,20,Aleuroglyphus agilis,8.4,
+Gause_1936_AnE,3.3b,24,Aleuroglyphus agilis,12.5,Immigration
+Gause_1936_AnE,3.3b,27,Aleuroglyphus agilis,27.8,
+Gause_1936_AnE,3.3b,32,Aleuroglyphus agilis,28.6,Immigration
+Gause_1936_AnE,3.3b,36,Aleuroglyphus agilis,9.4,
+Gause_1936_AnE,3.3b,40,Aleuroglyphus agilis,,Immigration
+Gause_1936_AnE,3.3b,41,Aleuroglyphus agilis,6.5,
+Gause_1936_AnE,3.3b,45,Aleuroglyphus agilis,2.5,
+Gause_1936_AnE,3.3b,0,Cheyletus eruditus,1.4,Immigration
+Gause_1936_AnE,3.3b,5,Cheyletus eruditus,2.6,
+Gause_1936_AnE,3.3b,8,Cheyletus eruditus,,Immigration
+Gause_1936_AnE,3.3b,11,Cheyletus eruditus,3.4,
+Gause_1936_AnE,3.3b,16,Cheyletus eruditus,2.0,Immigration
+Gause_1936_AnE,3.3b,20,Cheyletus eruditus,2.8,
+Gause_1936_AnE,3.3b,24,Cheyletus eruditus,2.5,Immigration
+Gause_1936_AnE,3.3b,27,Cheyletus eruditus,4.8,
+Gause_1936_AnE,3.3b,32,Cheyletus eruditus,8.9,Immigration
+Gause_1936_AnE,3.3b,36,Cheyletus eruditus,12.7,
+Gause_1936_AnE,3.3b,40,Cheyletus eruditus,,Immigration
+Gause_1936_AnE,3.3b,41,Cheyletus eruditus,9.5,
+Gause_1936_AnE,3.3b,45,Cheyletus eruditus,9.1,

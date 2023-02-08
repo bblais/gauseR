@@ -1,0 +1,28 @@
+Paper,Figure,Species,Time,Volume,Treatment
+Gause_book_1934,16,Schizosaccharomyces  kephir,6,0.44,Monoculture
+Gause_book_1934,16,Schizosaccharomyces  kephir,8,0.41,Monoculture
+Gause_book_1934,16,Schizosaccharomyces  kephir,8,1.13,Monoculture
+Gause_book_1934,16,Schizosaccharomyces  kephir,19,4.74,Monoculture
+Gause_book_1934,16,Schizosaccharomyces  kephir,32,6.68,Monoculture
+Gause_book_1934,16,Schizosaccharomyces  kephir,34,6.14,Monoculture
+Gause_book_1934,16,Schizosaccharomyces  kephir,53,6.78,Monoculture
+Gause_book_1934,16,Schizosaccharomyces  kephir,55,7.47,Monoculture
+Gause_book_1934,16,Schizosaccharomyces  kephir,62,7.47,Monoculture
+Gause_book_1934,16,Schizosaccharomyces  kephir,70,7.3,Monoculture
+Gause_book_1934,16,Schizosaccharomyces  kephir,95,7.4,Monoculture
+Gause_book_1934,16,Saccharomyces  cerevisiae ,16,7.36,Monoculture
+Gause_book_1934,16,Saccharomyces  cerevisiae ,15,6.92,Monoculture
+Gause_book_1934,16,Saccharomyces  cerevisiae ,6,1.1,Monoculture
+Gause_book_1934,16,Saccharomyces  cerevisiae ,19,8.64,Monoculture
+Gause_book_1934,16,Saccharomyces  cerevisiae ,20,8.6,Monoculture
+Gause_book_1934,16,Saccharomyces  cerevisiae ,24,8.57,Monoculture
+Gause_book_1934,16,Saccharomyces  cerevisiae ,26,9.55,Monoculture
+Gause_book_1934,16,Saccharomyces  cerevisiae ,32,10.21,Monoculture
+Gause_book_1934,16,Total_Yeast,6,0.95,Mixture
+Gause_book_1934,16,Total_Yeast,8,1.1,Mixture
+Gause_book_1934,16,Total_Yeast,24,7.22,Mixture
+Gause_book_1934,16,Total_Yeast,26,7.59,Mixture
+Gause_book_1934,16,Total_Yeast,32,8.07,Mixture
+Gause_book_1934,16,Total_Yeast,34,7.74,Mixture
+Gause_book_1934,16,Total_Yeast,32,5.81,Mixture
+Gause_book_1934,16,Total_Yeast,15,4.56,Mixture

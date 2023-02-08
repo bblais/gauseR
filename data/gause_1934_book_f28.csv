@@ -1,0 +1,13 @@
+Paper,Figure,Species,Time,Individuals,Treatment
+Gause_book_1934,28,Paramecium caudatum,0.033643139,6.434974317,Monoculture
+Gause_book_1934,28,Paramecium caudatum,1.034418121,27.1902593,Monoculture
+Gause_book_1934,28,Paramecium caudatum,1.752003201,110.2923106,Monoculture
+Gause_book_1934,28,Paramecium caudatum,2.027135535,118.5043142,Mixture
+Gause_book_1934,28,Paramecium caudatum,2.738131876,41.1778596,Mixture
+Gause_book_1934,28,Paramecium caudatum,2.997121099,30.33573195,Mixture
+Gause_book_1934,28,Paramecium caudatum,4.003085936,2.935975917,Mixture
+Gause_book_1934,28,Didinum nasutum,2.008628311,4.943988719,Mixture
+Gause_book_1934,28,Didinum nasutum,3.01541849,22.60852535,Mixture
+Gause_book_1934,28,Didinum nasutum,4.019480846,23.53514554,Mixture
+Gause_book_1934,28,Didinum nasutum,5.016101145,18.79729624,Mixture
+Gause_book_1934,28,Didinum nasutum,6.603833499,1.123023378,Mixture

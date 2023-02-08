@@ -1,0 +1,25 @@
+Paper,Figure,Species,Time,Volume,Treatment
+Gause_book_1934,15,Schizosaccharomyces  kephir,16.53275839,0.896422757,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,16.1253135,0.995456945,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,16.24675496,1.124686496,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,15.57354688,1.223522682,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,24.45901351,1.428818146,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,29.21987064,1.690643288,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,32.51727021,1.971245655,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,31.69006028,2.308377701,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,47.99753597,2.737745853,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,72.39406873,4.861882343,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,92.91943503,5.681810182,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,117.8897347,5.829552955,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,141.4097769,5.847076165,Monoculture
+Gause_book_1934,15,Schizosaccharomyces  kephir,6.354556255,0.282879395,Mixture
+Gause_book_1934,15,Schizosaccharomyces  kephir,7.8083337,0.37336648,Mixture
+Gause_book_1934,15,Schizosaccharomyces  kephir,15.49522594,0.607570291,Mixture
+Gause_book_1934,15,Schizosaccharomyces  kephir,24.61125534,1.210388525,Mixture
+Gause_book_1934,15,Schizosaccharomyces  kephir,29.24275091,1.432382189,Mixture
+Gause_book_1934,15,Schizosaccharomyces  kephir,31.39877679,1.096240155,Mixture
+Gause_book_1934,15,Schizosaccharomyces  kephir,33.51432217,1.217021604,Mixture
+Gause_book_1934,15,Schizosaccharomyces  kephir,44.28829146,1.10584327,Mixture
+Gause_book_1934,15,Schizosaccharomyces  kephir,51.60645928,1.002024024,Mixture
+Gause_book_1934,15,Schizosaccharomyces  kephir,48.35482026,1.704899459,Mixture
+Gause_book_1934,15,Schizosaccharomyces  kephir,53.26087913,1.827759933,Mixture

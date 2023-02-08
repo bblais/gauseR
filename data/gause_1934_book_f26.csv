@@ -1,0 +1,105 @@
+Paper,Figure,Species,Time,Individuals,Treatment
+Gause_book_1934,26, Stylorzychia  pustulata,24.91399305,41.19948415,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,23.94541592,40.2328334,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,22.94374915,36.4525262,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,21.9255099,31.51373589,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,20.95645348,34.85173413,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,19.9522612,53.75361582,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,18.93328458,55.43736241,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,17.99938245,43.0459138,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,16.96414674,40.75659911,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,15.97947643,34.32681628,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,14.96037078,37.16950684,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,13.99144339,39.34856112,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,11.87042502,38.74483646,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,10.93499283,40.09515192,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,9.93183288,49.72548194,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,8.997082766,44.94995076,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,6.957673218,61.39695434,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,5.98762134,73.6753774,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,3.967715325,64.95627989,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,2.985478348,36.67212528,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,2.386509749,16.15885179,Monoculture
+Gause_book_1934,26, Stylorzychia  pustulata,23.96525127,12.08659071,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,22.94669864,9.962378583,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,21.94405485,14.95693277,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,20.95899742,12.00398182,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,19.97423494,6.402016102,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,18.98770276,16.69413895,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,16.93336139,17.24751482,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,15.94784311,18.43364943,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,14.94543896,21.27587913,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,13.97570047,30.73972401,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,13.02340086,33.58057113,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,10.96964939,28.83591747,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,9.982932873,40.78367455,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,8.99794918,37.1684699,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,6.958668672,52.45652952,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,5.019302291,70.39083875,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,3.985283251,57.17433817,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,2.653217791,20.78725388,Mixture (P. caudatum)
+Gause_book_1934,26, Stylorzychia  pustulata,2.0196295,11.202088,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,2.48644231,18.63953797,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,3.086572273,28.72231584,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,3.987403201,38.13454457,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,5.00409396,56.98066238,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,6.022683456,58.77374766,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,6.993509576,39.54166084,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,8.04542836,41.99607809,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,8.998244129,34.51945514,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,10.03454903,27.20609132,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,11.05474231,14.59515883,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,12.00654419,16.22452413,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,12.97521349,16.36335775,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,14.0281093,10.04291361,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,14.99657582,12.00294489,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,16.04895546,10.31827657,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,17.01747729,11.78161758,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,18.05337663,8.110649058,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,19.0561679,1.791587489,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,20.04163089,1.102143146,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,21.02696483,1.571642761,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,22.06197933,5.84771852,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,22.98111555,0.855468624,Mixture (P. aurelia)
+Gause_book_1934,26, Stylorzychia  pustulata,24.91843572,1.298699304,Mixture (P. aurelia)
+Gause_book_1934,26,Paramecium caudatum,2.020182531,6.235185319,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,3.004797537,13.16165841,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,4.038705971,27.37153953,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,5.00562401,43.2388983,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,5.988856441,62.58262809,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,6.986504526,102.4557614,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,7.986751854,118.9844522,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,8.890182024,105.0522383,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,9.92176773,140.1231107,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,10.94100243,136.1214762,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,11.91015102,131.9556608,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,13.89836841,125.2782817,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,16.95454245,127.0151423,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,14.94778012,150.2493245,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,15.94948376,153.6985048,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,17.97121478,146.0268235,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,18.92347752,143.5171032,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium caudatum,19.89146475,149.7817835,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,2.064069095,33.27568713,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,3.085339828,33.10346609,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,4.087149584,61.26504961,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,5.008118787,114.7353752,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,6.053982683,236.9873374,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,6.994447307,263.1356571,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,8.07999093,350.9795789,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,9.021867766,418.6116401,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,10.00290767,436.6586823,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,11.04642936,490.1083414,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,12.02647037,478.8132249,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,13.04746555,470.5466152,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,14.00539339,409.6768129,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,14.98653662,430.7592508,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,15.96705986,433.6293143,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,16.98963947,471.9054392,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,18.00946355,429.2376779,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,18.99043456,445.261123,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,21.01354949,474.262284,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,21.97447397,501.4189578,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,23.01444791,450.6533635,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,23.91382059,469.725982,Mixture(S. pustula)
+Gause_book_1934,26,Paramecium aurelia,24.89430939,471.5842469,Mixture(S. pustula)
